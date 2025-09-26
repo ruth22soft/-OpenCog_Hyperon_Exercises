@@ -14,6 +14,7 @@ Installation
 
 Clone the repository:
 git clone https://github.com/ruth22soft/OpenCog-Hyperon-Exercises.git
+
 cd OpenCog-Hyperon-Exercises
 
 
